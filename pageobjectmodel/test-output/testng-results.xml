@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-06T09:49:52 PST" name="Default suite" finished-at="2023-03-06T09:50:56 PST" duration-ms="64232">
+    <groups>
+    </groups>
+    <test started-at="2023-03-06T09:49:52 PST" name="Default test" finished-at="2023-03-06T09:50:56 PST" duration-ms="64232">
+      <class name="pageobjectmodel.LoginTest">
+        <test-method is-config="true" signature="launch()[pri:0, instance:pageobjectmodel.LoginTest@740cae06]" started-at="2023-03-06T09:49:52 PST" name="launch" finished-at="2023-03-06T09:49:57 PST" duration-ms="4993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="forGotpassword()[pri:0, instance:pageobjectmodel.LoginTest@740cae06]" started-at="2023-03-06T09:49:57 PST" name="forGotpassword" finished-at="2023-03-06T09:50:11 PST" duration-ms="13563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forGotpassword -->
+        <test-method signature="remeberMe()[pri:0, instance:pageobjectmodel.LoginTest@740cae06]" started-at="2023-03-06T09:50:11 PST" name="remeberMe" finished-at="2023-03-06T09:50:33 PST" duration-ms="22852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- remeberMe -->
+        <test-method signature="validateErrorLogin()[pri:0, instance:pageobjectmodel.LoginTest@740cae06]" started-at="2023-03-06T09:50:33 PST" name="validateErrorLogin" finished-at="2023-03-06T09:50:38 PST" duration-ms="4381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateErrorLogin -->
+        <test-method signature="error_login()[pri:1, instance:pageobjectmodel.LoginTest@740cae06]" started-at="2023-03-06T09:50:38 PST" name="error_login" finished-at="2023-03-06T09:50:46 PST" duration-ms="8392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- error_login -->
+        <test-method signature="loginTest()[pri:2, instance:pageobjectmodel.LoginTest@740cae06]" started-at="2023-03-06T09:50:46 PST" name="loginTest" finished-at="2023-03-06T09:50:56 PST" duration-ms="9788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:pageobjectmodel.LoginTest@740cae06]" started-at="2023-03-06T09:50:56 PST" name="tearDown" finished-at="2023-03-06T09:50:56 PST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pageobjectmodel.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
